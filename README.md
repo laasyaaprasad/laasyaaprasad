@@ -1,7 +1,6 @@
 ###  Hi 👋, I'm Laasya Anantha Prasad
 
-
-I am proficient in Applied Data Science. I love to bridge the gap between understanding the problems in Business Functions and applying the statistical techniques/ models and visualizations.
+# I am proficient in Applied Data Science and I love telling strories through data!
 
 🌱 I'm currently pursuing Master of Science in Data Sciecne from Northeastern University in Boston
 
