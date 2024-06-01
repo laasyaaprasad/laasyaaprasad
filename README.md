@@ -1,6 +1,6 @@
-###  Hi 👋, I'm Laasya Anantha Prasad
+#  Hi 👋, I'm Laasya Anantha Prasad
 
-# I am proficient in Applied Data Science and I love telling strories through data!
+## I am proficient in Applied Data Science and I love telling strories through data!
 
 🌱 I'm currently pursuing Master of Science in Data Sciecne from Northeastern University in Boston
 
