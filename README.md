@@ -4,8 +4,7 @@
 
 🌱 I'm currently pursuing Master of Science in Data Sciecne from Northeastern University in Boston
 
-👯 I’m looking to having conversations related to Business applied data science
+👯 I’m looking to having conversations related to data science, data engineering, AI and analytics
 
 📫 You can reach me at laprasad20@gmail.com
 
-⚡ Fun fact I like trekking in the Himalayas!
