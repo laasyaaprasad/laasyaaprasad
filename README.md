@@ -28,6 +28,11 @@ Databases
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
 </p>
 
+## 💼 Experience
+- **Data Scientist - Research Assistant** | Northeastern DATA Initiative | Boston, MA | July 2024-Present
+- **Data Science and Analytics Intern** | ValidiFi | Alpharetta, GA | June 2024 - Sept 2023
+- **Data Science Intern** | Cisco Systems | Bangalore, India | Jan 2023 - June 2023
+- **Data Science Intern** | KrtrimaIQ Cognitive Solutions| Bangalore, India | October 2022 - December 2022
 
 ## University Courses
 
