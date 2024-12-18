@@ -6,9 +6,9 @@
 
 🌍  I'm based in Boston, MA
 
-🌱 I’m looking to having conversations related to data science, data engineering, AI and analytics
+🌱 I’m looking forward to having conversations related to data science, data engineering, AI and analytics
 
-🤝  I'm open to collaborating on Data Science
+🤝  I'm open to collaborating on Data Science Projects
 
 📫 You can reach me at [laprasad20@gmail.com](mailto:laprasad20@gmail.com)
 
