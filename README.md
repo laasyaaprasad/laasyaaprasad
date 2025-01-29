@@ -45,8 +45,14 @@ Spring 2024
 * DS5230: Unsupervised Machine Learning and Data Mining
   
 Summer 2024
-* CS6120: Natural Language Processing 
+* CS6120: Natural Language Processing
 
+Fall 2024
+* DS5983: Large Language Models
+* DS5500: Data Science Capstone
+
+Spring 2025
+* MKTG6606: Advanced DATA Research Practicum
 
 ## Socials
 
