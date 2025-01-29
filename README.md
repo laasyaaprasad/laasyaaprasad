@@ -55,8 +55,11 @@ Spring 2025
 * MKTG6606: Advanced DATA Research Practicum
 
 ## Lets connect
-Want to collaborate on a project, discuss technology, or just say hi? Feel free to reach out to me via <a href="laasyaaprasad@gmail.com" target="_blank" rel="noreferrer">Email</a> or drop me a text on <a href="https://www.linkedin.com/in/laasyaaprasad" target="_blank" rel="noreferrer">LinkedIn.</a>
+<p align="left"> 
+Want to collaborate on a project, discuss technology, or just say hi? Feel free to reach out to me via <a href="laasyaaprasad@gmail.com" target="_blank">Email</a> or drop me a text on <a href="https://www.linkedin.com/in/laasyaaprasad" target="_blank" rel="noreferrer">LinkedIn.</a>
+
 Feel free to check out my <a href="https://laasyaaprasad.github.io" target="_blank" rel="noreferrer"> Personal Website </a>
+</p>
 
 ## Socials
 
